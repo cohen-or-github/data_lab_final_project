@@ -1,4 +1,4 @@
-**Project Name: Predicting Employee Attrition using LinkedIn Data**
+**Predicting Employee Attrition using LinkedIn Data**
 
 
 **Overview:**

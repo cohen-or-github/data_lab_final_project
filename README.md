@@ -21,6 +21,11 @@ To run the notebooks in this repository, ensure you have the following dependenc
 
 !pip install gensim
 
+Additionally, add your API key here:
+
+![image](https://github.com/cohen-or-github/data_lab_final_project/assets/81253980/dbe84aba-b127-494f-85f1-9aba83bdc515)
+
+
 **Usage:**
 
 • databricks_notebooks: These notebooks should be imported into the Databricks workspace and executed in a Databricks cluster. Follow the instructions within the notebooks for step-by-step execution.

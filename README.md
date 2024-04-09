@@ -7,7 +7,7 @@ This project aims to predict employee attrition using data collected from Linked
 
 **Repository Contents:**
 
-• databricks_notebook.ipynd: This directory contains Databricks notebooks that are specifically designed to be run in the Databricks environment. These notebooks utilize Databricks-specific features and configurations, and uses datasets given by Bright Data (Linkedin profiles and companies).
+• databricks_notebook.ipynd: This directory contains Databricks notebooks that are specifically designed to be run in the Databricks environment. These notebooks utilize Databricks-specific features and configurations, and uses datasets given by Bright Data (Linkedin profiles and companies). This notebook contains basic pre-processing for the companies and profiles data and scarping of additional data.
 
 • final_project_notebook.ipynb: This Jupyter notebook is intended to be run in any Python environment that has Python 3.10. or above installed. It contains the final project code, including data preprocessing, feature engineering, model training, and evaluation.
 
